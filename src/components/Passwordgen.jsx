@@ -1,7 +1,9 @@
 
 const Passwordgen = () => {
   return (
-    <div></div>
+    <div>
+       
+    </div>
   )
 }
 

@@ -1,6 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-#root {
+*{
   margin: 0 ;
   font-family: Roboto ,sans-serif;
 }
+
+.nav--container{
+  display: flex;
+  background-color: #2465de;
+  color: white;
+}
+
+.title{
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  font-size: 36px;
+}
+
+.about{
+  display: flex;
+  align-items: center;
+  margin-right: 5rem;
+  font-size: 25px;
+}
+
+.logo{
+  display: flex;
+  width: 145px;
+  margin-right: auto;
+}
+
